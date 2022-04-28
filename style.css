@@ -60,8 +60,9 @@ layout
     padding:0 10px;
     border-radius:50%;
     background-color: var(--neon-green);
-    left:45%;
-    bottom:-10%;
+    bottom:-20px;
+    left: 50%;
+    transform:translate(-50%)
 
 }
 img{
